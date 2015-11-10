@@ -9,17 +9,17 @@
 目前支持：
   饼图
   
-  ![饼图](/screenshoots/pie.gif)
+  ![饼图](screenshots/pie.gif)
   
   散点图
   
-  ![散点图](/screenshoots/scatter.gif)
+  ![散点图](screenshots/scatter.gif)
   
   雷达图
   
-  ![雷达图](/screenshoots/radar.gif)
+  ![雷达图](screenshots/radar.gif)
   
   柱状图
   
-  ![柱状图](/screenshoots/bar.gif)
+  ![柱状图](screenshots/bar.gif)
   
